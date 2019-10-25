@@ -1,0 +1,17 @@
+.Home_Button {
+    background: transparent;
+    border: none;
+    cursor:pointer;
+    font-size: 20px;
+    color: white;
+    height: 20px;
+}
+
+.Home_Button:hover,
+.Home_Button:active {
+    color: orange;
+}
+
+.Home_Button:focus {
+    outline: none;
+}

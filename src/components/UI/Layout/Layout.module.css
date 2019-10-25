@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Philosopher', sans-serif;
+}
+
+.Layout {
+    background-image: url('../../../assets/images/background-image.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.Content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0 15px;
+    height: 100vh;
+}
